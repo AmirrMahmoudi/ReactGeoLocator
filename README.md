@@ -8,6 +8,6 @@ To install and setup this application, first ensure that Node.js and npm are ins
 
 ```bash
 git clone https://github.com/AmirrMahmoudi/ReactGeoLocator
-cd <repository-name>
+
 npm install
 npm start
